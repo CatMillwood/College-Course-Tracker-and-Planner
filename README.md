@@ -1,6 +1,6 @@
 # UARK Computer Science BA Course Tracker and Planner
 
-This College Course Tracker and Planner is a web-based application specifically designed for students pursuing a **BA in Computer Science** at the **University of Arkansas (UARK)**. It helps students efficiently plan and track their coursework, ensuring they meet graduation requirements and stay organized throughout their academic journey. ***THIS PROJECT IS NOT COMPLETE YET.***
+This College Course Tracker and Planner (Name TBD) is a web-based application specifically designed for students pursuing a **BA in Computer Science** at the **University of Arkansas (UARK)**. It helps students efficiently plan and track their coursework, ensuring they meet graduation requirements and stay organized throughout their academic journey. ***THIS PROJECT IS NOT COMPLETE YET.***
 
 ## Features:
 - **UARK-Specific Course Catalog**: View all courses required for the UARK Computer Science BA program, including prerequisites, credit hours, and when each course is typically offered. Instead of entering each course manually entering each course that counts as a CSCEBA general elective, the system will automatically highlight electives that **Do *NOT* qualify as an elective in red, displaying an error code.**   ***THIS HAS NOT BEEN CREATED YET.***
